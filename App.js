@@ -21,6 +21,7 @@ const App = () => {
         }}>
         <Text>Press Me 1</Text>
       </TouchableOpacity>
+      <Text>This was Added in 3rd realese</Text>
     </View>
   );
 };
