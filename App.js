@@ -21,7 +21,18 @@ const App = () => {
         }}>
         <Text>Press Me 1</Text>
       </TouchableOpacity>
+      <TouchableOpacity
+        style={{
+          height: 50,
+          width: 120,
+          borderRadius: 20,
+          justifyContent: 'center',
+          alignItems: 'center',
+          backgroundColor: 'red',
+        }}>
+        <Text>Press Me 2</Text>
       <Text>This was Added in 3rd realese</Text>
+      <Text>This was Added in 4th realese</Text>
     </View>
   );
 };
