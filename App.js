@@ -30,9 +30,11 @@ const App = () => {
           alignItems: 'center',
           backgroundColor: 'red',
         }}>
-        <Text>Press Me 2</Text>
+        <Text>Press Me 1</Text>
+      </TouchableOpacity>
       <Text>This was Added in 3rd realese</Text>
-      <Text>This was Added in 4th realese</Text>
+      <Text>This was Added in 5rd realese</Text>
+      <Text>temp data</Text>
     </View>
   );
 };
